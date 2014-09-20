@@ -1,0 +1,773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"data",
+				"datetime  (class)"
+			],
+			[
+				"mysqli_co",
+				"mysqli_connect  (function)"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"wr",
+				"writer"
+			],
+			[
+				"cs",
+				"csvFile"
+			],
+			[
+				"get",
+				"getLastElement"
+			],
+			[
+				"cu",
+				"currentItem"
+			],
+			[
+				"curr",
+				"currentItem"
+			],
+			[
+				"n",
+				"nChildren"
+			],
+			[
+				"file",
+				"fileNameToFind"
+			],
+			[
+				"Fil",
+				"fileNameToFind"
+			],
+			[
+				"d",
+				"datetime"
+			],
+			[
+				"fil",
+				"fileNameToFind"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"we",
+				"-webkit-animation:   (property)"
+			],
+			[
+				"webkit-tra",
+				"-webkit-transform:   (property)"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"left",
+				"left:   (property)"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"border-sty",
+				"border-style"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"po",
+				"popactive"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"te",
+				"text-align:   (property)"
+			],
+			[
+				"e",
+				"entrydateactive"
+			],
+			[
+				"en",
+				"entrydate"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"entry",
+				"entrydate"
+			],
+			[
+				"entr",
+				"entrydateactive"
+			],
+			[
+				"ent",
+				"entrydate"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"rea",
+				"readline  (function)"
+			],
+			[
+				"du",
+				"dumps  (function)"
+			],
+			[
+				"item",
+				"itemFromJson"
+			],
+			[
+				"JSON",
+				"JSONDecoder"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"Json",
+				"JSONEncoder"
+			],
+			[
+				"ite",
+				"itemToEncode"
+			],
+			[
+				"Item",
+				"ItemJsonEncoder"
+			],
+			[
+				"IT",
+				"ItemJsonEncoder"
+			],
+			[
+				"J",
+				"JSONDecoder  (class)"
+			],
+			[
+				"to",
+				"toWrite"
+			],
+			[
+				"loa",
+				"loads  (function)"
+			],
+			[
+				"cho",
+				"choiceFunctions"
+			],
+			[
+				"reg",
+				"regMatchParamValues"
+			],
+			[
+				"c",
+				"choices"
+			],
+			[
+				"ch",
+				"getChoice"
+			],
+			[
+				"pay",
+				"paymentLeft"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"dir",
+				"dirContents"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"page",
+				"pageconent"
+			],
+			[
+				"save",
+				"saveManual"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"view",
+				"viewportWidth"
+			],
+			[
+				"clown",
+				"clownPosition"
+			],
+			[
+				"set",
+				"setY  (function)"
+			],
+			[
+				"clow",
+				"clownPosition"
+			],
+			[
+				"clwon",
+				"clownPosition"
+			],
+			[
+				"clo",
+				"clownSpeed"
+			],
+			[
+				"por",
+				"processMouseClicked"
+			],
+			[
+				"mouse",
+				"mouseEvents"
+			],
+			[
+				"mou",
+				"mouseEvents"
+			],
+			[
+				"cl",
+				"clownSpeed"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"score",
+				"htmlScore"
+			],
+			[
+				"v",
+				"vec2"
+			],
+			[
+				"a",
+				"aTextureCoord"
+			],
+			[
+				"texture",
+				"textureCords"
+			],
+			[
+				"iamge",
+				"imagesrc"
+			],
+			[
+				"tra",
+				"triangleDir"
+			],
+			[
+				"tri",
+				"triangleDir"
+			],
+			[
+				"tria",
+				"trianglePos"
+			],
+			[
+				"dr",
+				"drawScene"
+			],
+			[
+				"vie",
+				"viewWidth  (variable)"
+			],
+			[
+				"use",
+				"useProgram"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"verte",
+				"vertexColorAttribute"
+			],
+			[
+				"vertexAt",
+				"vertexPositionAttribute"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"mat",
+				"mat4"
+			],
+			[
+				"s",
+				"setPerspective  (function)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pt",
+				"prototype"
+			],
+			[
+				"vertex",
+				"vertexAttribPointer"
+			],
+			[
+				"ver",
+				"vertexColorAttribute"
+			],
+			[
+				"ena",
+				"enableVertexAttribArray"
+			],
+			[
+				"mv",
+				"mvMatrix"
+			],
+			[
+				"sha",
+				"shaderProgram"
+			],
+			[
+				"pM",
+				"pMatrix"
+			],
+			[
+				"shad",
+				"shaderProgram"
+			],
+			[
+				"ve",
+				"vec4"
+			],
+			[
+				"shader",
+				"shader"
+			],
+			[
+				"vert",
+				"vertexPositionAttribute"
+			],
+			[
+				"viewport",
+				"viewportWdith"
+			],
+			[
+				"tr",
+				"triangleVertextPositionBuffer"
+			],
+			[
+				"relative",
+				"relative"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"Snippet: ",
+				"Snippet: New Class"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"t",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pref",
+				"Autoprefix CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/xampp/apache/conf/httpd.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/F/Programming/Website/octo-tribble/.gitignore",
+		"/F/Programming/Website/octo-tribble/bloggy/settings.py",
+		"/F/Programming/sqlitebrowser-3.3.1/CMakeLists.txt",
+		"/F/Programming/Website/octo-tribble/blog/models.py",
+		"/F/Programming/Website/bloggy/bloggy/settings.py",
+		"/F/Program Files/Python27/Scripts/pip.exe",
+		"/F/xampp/htdocs/ballin-lana/css/global.css",
+		"/F/xampp/htdocs/ballin-lana/index.php",
+		"/C/Users/Chris/Documents/My Games/Watch_Dogs/RLD!/GamerProfile.xml",
+		"/F/xampp/htdocs/ballin-lana/css/index.css",
+		"/F/Programming/android-source/.repo/repo/main.py",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/getset.snippet",
+		"/F/xampp/htdocs/Poswise/retrieve.php",
+		"/F/Programming/Ruby/Rails/pivotal/README.rdoc",
+		"/C/Users/Chris/Desktop/test.sh",
+		"/F/xampp/htdocs/index.html",
+		"/F/xampp/htdocs/phptest.php",
+		"/F/Programming/Python/Wildstar LoteTrack Phraser/main.py",
+		"/F/Programming/Python/Wildstar LoteTrack Phraser/LoteTrack_0_Gen.xml",
+		"/F/Programming/Art/3d welcome/letterA.fbx",
+		"/F/Programming/Python/Wildstar LoteTrack Phraser/hi",
+		"/F/Programming/Python/Wildstar LoteTrack Phraser/echo",
+		"/F/Programming/Python/Wildstar LoteTrack Phraser/{",
+		"/F/Programming/Python/Wildstar LoteTrack Phraser/}",
+		"/F/xampp/htdocs/ballin-lana/css/reset.css",
+		"/F/xampp/htdocs/ballin-lana/test.html",
+		"/F/xampp/htdocs/ballin-lana/post.php",
+		"/F/xampp/htdocs/ballin-lana/css/navbar.css",
+		"/F/xampp/htdocs/ballin-lana/index1.php",
+		"/F/xampp/htdocs/ballin-lana/css/bootstrap.min.css",
+		"/F/Programming/Budget/main.py",
+		"/C/Users/Chris/AppData/Local/Temp/Temp1_CommodityStats-1.3.zip/CommodityStats-1.3/CommodityStats.lua",
+		"/C/Users/Chris/AppData/Roaming/NCSOFT/WildStar/Addons/LoteTrack/toc.xml",
+		"/C/Users/Chris/AppData/Roaming/NCSOFT/WildStar/Addons/LoteTrack/LoteTrack.lua",
+		"/F/xampp/htdocs/ballin-lana/css/posts.css",
+		"/F/xampp/htdocs/ballin-lana/json/.json",
+		"/F/xampp/htdocs/ballin-lana/json/20140506T.json",
+		"/F/xampp/htdocs/ballin-lana/php/save.php",
+		"/F/xampp/htdocs/ballin-lana/css/editpost.css",
+		"/F/xampp/htdocs/ballin-lana/json/default.json",
+		"/F/xampp/htdocs/Learningwebgl/Clown Bounce/AABB.js",
+		"/F/xampp/htdocs/index.php",
+		"/F/xampp/htdocs/Learningwebgl/Clown Bounce/index.html",
+		"/F/xampp/htdocs/Learningwebgl/Clown Bounce/Texture.js",
+		"/F/xampp/htdocs/Learningwebgl/Clown Bounce/PVM.js",
+		"/F/xampp/htdocs/Learningwebgl/Clown Bounce/Vector3.js",
+		"/F/xampp/htdocs/Learningwebgl/glMatrix-0.9.5.min.js",
+		"/F/xampp/htdocs/Learningwebgl/Textures/lessonjs.js",
+		"/F/Programming/WebGL/Learningwebgl/Textures/Square.js",
+		"/F/Programming/WebGL/Lesson 1/lessonjs.js",
+		"/F/Programming/WebGL/glMatrix-0.9.5.min.js",
+		"/F/Programming/Website/initializr/css/main.css",
+		"/F/Downloads/minecraft-resource-calculator-2014-04-06/index.html",
+		"/F/Downloads/minecraft-resource-calculator-2014-04-06/js/mcrc.js",
+		"/F/Programming/Website/initializr/index.html",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/Chris/Desktop/portfolio_nov_2013-2013-11-14 (1)/portfolio nov 2013/js/main.js",
+		"/C/Users/Chris/Desktop/portfolio_nov_2013-2013-11-14 (1)/portfolio nov 2013/projects.html",
+		"/C/Users/Chris/Desktop/portfolio_nov_2013-2013-11-14 (1)/portfolio nov 2013/css/main.css",
+		"/C/Users/Chris/Desktop/portfolio_nov_2013-2013-11-14 (1)/portfolio nov 2013/js/vendor/pagesplit.js",
+		"/F/Program Files/Autodesk/3ds Max 2012/html/essential_skills_movies/max/create.html",
+		"/F/Program Files/Unity/Editor/Data/Documentation/Documentation/Manual/index.html",
+		"/C/Users/Chris/Desktop/Rach's Site/index.html",
+		"/C/Users/Chris/Desktop/Rach's Site/css/menu.css",
+		"/C/Users/Chris/AppData/Local/Temp/Temp1_source.zip/cssmenu/instructions.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"\"\n",
+			"\">\n",
+			"save",
+			"multiply",
+			"shaderProgram",
+			"-webkit-",
+			"translate",
+			".page-inner",
+			"#ecf0f1",
+			"#34495e",
+			"#47a3da",
+			".back ",
+			"0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.iD"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
